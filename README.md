@@ -12,4 +12,4 @@ Monitoring of DELL hardware via DELL OpenManager:
 * Virtual disks
 
 The XML file has been exported with Zabbix-3.0 and includes the value
-maps need by the template.
+maps needed by the template.
