@@ -2966,7 +2966,12 @@
                     <host_prototypes/>
                 </discovery_rule>
             </discovery_rules>
-            <macros/>
+            <macros>
+             <macro>
+              <macro>{$SNMP_COMMUNITY}</macro>
+              <value>public</value>
+             </macro>
+            </macros>
             <templates/>
             <screens/>
         </template>
